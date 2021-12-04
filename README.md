@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br/>
 
   <a href="https://github.com/IsaacArnold">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacArnold&count_private=true&show_icons=true&theme=gradient&hide=stars" alt="Isaac's GitHub stats" />
+    <img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=IsaacArnold&count_private=true&show_icons=true&theme=synthwave&hide=stars" alt="Isaac's GitHub stats" />
   </a>
   
   <a href="https://github.com/IsaacArnold">
