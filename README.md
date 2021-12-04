@@ -38,15 +38,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)
 <br/>
 <br/>
-
-  <a href="https://github.com/IsaacArnold">
-    <img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=IsaacArnold&count_private=true&show_icons=true&theme=synthwave&hide=stars" alt="Isaac's GitHub stats" />
-  </a>
-  
-  <a href="https://github.com/IsaacArnold">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacArnold&layout=compact&theme=react" alt="Top languages" />
-  </a>
+<a href="https://github.com/IsaacArnold">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacArnold&layout=compact&theme=react" alt="Top languages" />
+</a>
 
 ## 📫 Connect with me:
+
 ![]()
+
 </div>
