@@ -47,7 +47,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/IsaacArnold">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacArnold&layout=compact&theme=react" alt="Top languages" />
   </a>
-  <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
 ## 📫 Connect with me:
 
