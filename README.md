@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <ul align="left" >
     <li align="left">💻  I’m a Frontend Web Developer</li>
     <li align="left">🕸️  I love building fast, beautiful websites to help clients reach their goals</li>
-    <li align="left">🌱  I'm currently building a freelance/side-gig to help businesses branch out [online](https://branchoutonline.net/)</li>
+    <li align="left">🌱  I'm currently building a freelance/side-gig to help businesses branch out online</li>
     <li align="left">👨‍🎓  Graduate of the Frontend Web Development course from Team Treehouse</li>
     <li align="left">🔥  I share my journey and projects on Instagram and Twitter</li>
     <li align="left">⚡  Fun fact: I'm left-handed, however do most things right-handed</li>
