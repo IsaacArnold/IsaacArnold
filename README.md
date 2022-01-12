@@ -44,6 +44,8 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
+Week: 05 January, 2022 - 11 January, 2022
+
 JavaScript   12 hrs 13 mins  ████████████████████████▓   98.03 % 
 Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
