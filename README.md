@@ -44,13 +44,12 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-JavaScript   19 hrs 16 mins  ███████████████████████▓░   94.84 % 
-Bash         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JavaScript   15 hrs 25 mins  ████████████████████████▒   97.62 % 
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 
