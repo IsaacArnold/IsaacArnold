@@ -44,10 +44,9 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
-JavaScript   6 hrs 18 mins   ████████████████████████▒   97.30 % 
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JavaScript   1 hr 20 mins    █████████████████████████   99.92 % 
 ```
 <!--END_SECTION:waka-->
 
