@@ -44,12 +44,12 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 17 mins
+Total: 8 mins
 
-JSON         12 mins         ██████████████████▒░░░░░░   72.88 % 
-JavaScript   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.12 % 
+JavaScript   4 mins          █████████████▒░░░░░░░░░░░   52.68 % 
+JSON         4 mins          ███████████▓░░░░░░░░░░░░░   47.32 % 
 ```
 <!--END_SECTION:waka-->
 
