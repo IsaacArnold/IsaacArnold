@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 ```text
 Week: 13 February, 2022 - 19 February, 2022
 
-JavaScript   4 mins          █████████████▒░░░░░░░░░░░   52.68 % 
-JSON         4 mins          ███████████▓░░░░░░░░░░░░░   47.32 % 
+
 ```
 <!--END_SECTION:waka-->
 
