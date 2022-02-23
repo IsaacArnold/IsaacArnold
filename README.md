@@ -44,9 +44,11 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-
+JavaScript   2 hrs 10 mins   ███████████████████████░░   92.40 % 
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 ```
 <!--END_SECTION:waka-->
 
