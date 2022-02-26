@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <li align="left">👨‍🎓  Graduate of the Frontend Web Development course from Team Treehouse</li>
     <li align="left">🔥  I share my journey and projects on Instagram and Twitter</li>
     <li align="left">⚡  Fun fact: I'm left-handed, however do most things right-handed</li>
-    <li align="left">💼  Looking for my first job as a Junior Web Developer</li>
+    <li align="left">💼  Currently working as a Junior Voice App Developer for [TalkVia](https://www.talkvia.com/)</li>
   </ul>
     
 ###  View my Portfolio Website: [isaacarnold.dev](https://isaacarnold.dev/)
