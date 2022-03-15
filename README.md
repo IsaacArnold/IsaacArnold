@@ -45,10 +45,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
-
-JavaScript   1 hr 10 mins    ███████████████████████▓░   94.92 %
-CSS          3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
