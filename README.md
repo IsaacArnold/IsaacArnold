@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 20 April 2022
+From: 14 April 2022 - To: 21 April 2022
 
-JavaScript   2 hrs 39 mins   ████████████████████████░   95.81 %
-JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   5 hrs 39 mins   ████████████████████████░   95.67 %
+JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
