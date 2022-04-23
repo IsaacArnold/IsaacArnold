@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
 JavaScript   5 hrs 39 mins   ████████████████████████░   95.67 %
 JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
