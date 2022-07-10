@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
-JavaScript   5 hrs 24 mins   ███████████████████████▒░   93.37 %
-JSON         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   7 hrs 23 mins   ███████████████████████▓░   94.94 %
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
