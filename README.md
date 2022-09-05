@@ -50,7 +50,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 August 2022 - To: 04 September 2022
+
+Dart         1 hr 13 mins    ████████████████████░░░░░   79.97 %
+JavaScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+JSON         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
