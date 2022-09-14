@@ -50,11 +50,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-Dart         1 hr 54 mins    ████████████████████████▒   97.39 %
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart         2 hrs 57 mins   █████████████████████████   99.62 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
