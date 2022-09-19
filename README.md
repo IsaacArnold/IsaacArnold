@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
 Dart         1 hr 51 mins    █████████████████████████   99.58 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
