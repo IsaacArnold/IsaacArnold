@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 22 September 2022
+From: 16 September 2022 - To: 23 September 2022
 
-Dart   11 mins         █████████████████████████   100.00 %
+Dart   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
