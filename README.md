@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
+From: 10 October 2022 - To: 17 October 2022
 
-JavaScript   35 mins         ██████████████▒░░░░░░░░░░   57.16 %
-JSON         26 mins         ██████████▓░░░░░░░░░░░░░░   42.84 %
+JavaScript   33 mins         ██████████████░░░░░░░░░░░   55.90 %
+JSON         26 mins         ███████████░░░░░░░░░░░░░░   44.10 %
 ```
 
 <!--END_SECTION:waka-->
