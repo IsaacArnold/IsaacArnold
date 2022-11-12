@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 November 2022 - To: 09 November 2022
+From: 03 November 2022 - To: 10 November 2022
 
 JavaScript   1 hr 30 mins    ████████████████████████░   96.28 %
 JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
