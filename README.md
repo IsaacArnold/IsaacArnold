@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-JavaScript   8 hrs 12 mins   ██████████████████████▓░░   90.14 %
-TypeScript   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript   8 hrs 1 min     ███████████████████████░░   91.70 %
+TypeScript   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
