@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <div align="left">
 <h1>Hi 👋 I'm Isaac</h1>
   <ul align="left" >
-    <li align="left">💻  I’m a Frontend Web Developer</li>
-    <li align="left">🕸️  I love building fast, beautiful websites to help clients reach their goals</li>
+    <li align="left">💻  I’m a Junior Software Developer</li>
+    <li align="left">🧱  I love solving problems with clean, maintainable and extensible software</li>
     <li align="left">🌱  I'm currently building a freelance/side-gig to help businesses branch out online</li>
     <li align="left">👨‍🎓  Graduate of the Frontend Web Development course from Team Treehouse</li>
     <li align="left">🔥  I share my journey and projects on Instagram and Twitter</li>
     <li align="left">⚡  Fun fact: I'm left-handed, however do most things right-handed</li>
-    <li align="left">💼  Currently working as a Junior Voice App Developer for TalkVia</li>
+    <li align="left">💼  Currently working as a Junior Developer for TalkVia</li>
   </ul>
     
 ###  View my Portfolio Website: [isaacarnold.dev](https://isaacarnold.dev/)
