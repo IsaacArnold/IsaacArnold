@@ -50,11 +50,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-Markdown     36 mins         █████████████▓░░░░░░░░░░░   54.99 %
-TypeScript   26 mins         ██████████░░░░░░░░░░░░░░░   40.02 %
-JSON         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+TypeScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
