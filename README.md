@@ -50,12 +50,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-TypeScript   1 hr 6 mins     █████████████████████▓░░░   87.28 %
-JavaScript   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript   4 hrs 8 mins    ██████████████████████▓░░   90.20 %
+Markdown     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
