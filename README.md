@@ -50,14 +50,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-TypeScript   7 hrs 26 mins   ███████████████████████▒░   93.49 %
-Markdown     28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   4 hrs 25 mins   ██████████████████▒░░░░░░   72.68 %
+Dart         1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+JavaScript   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
