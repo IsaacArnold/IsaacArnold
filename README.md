@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 13 January 2023 - To: 20 January 2023
 
-Dart         1 hr 1 min      ██████████████████░░░░░░░   71.69 %
-JavaScript   23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Dart         1 hr 20 mins    ███████████████████▒░░░░░   76.86 %
+JavaScript   23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
