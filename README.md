@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
+From: 18 January 2023 - To: 25 January 2023
 
-JavaScript   2 hrs           ████████░░░░░░░░░░░░░░░░░   31.66 %
-TypeScript   1 hr 58 mins    ███████▓░░░░░░░░░░░░░░░░░   31.29 %
-Dart         1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-Groovy       50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript   2 hrs 44 mins   ████████████░░░░░░░░░░░░░   48.42 %
+JavaScript   1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   28.53 %
+Groovy       50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Dart         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
