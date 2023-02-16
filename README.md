@@ -50,10 +50,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-TypeScript   9 hrs 22 mins   ████████████████████████░   96.32 %
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript   8 hrs 40 mins   ████████████████████████▓   98.06 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
