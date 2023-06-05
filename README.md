@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="left">
 <h1>Hi 👋 I'm Isaac</h1>
   <ul align="left" >
-    <li align="left">💻  I’m a Junior Software Developer</li>
+    <li align="left">💻  I’m a Junior Software Engineer</li>
     <li align="left">🧱  I love solving problems with clean, maintainable and reuseable software</li>
     <li align="left">🌱  I'm currently building a freelance/side-gig to help businesses branch out online</li>
     <li align="left">👨‍🎓  Graduate of the Frontend Web Development course from Team Treehouse</li>
