@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2023 - To: 08 June 2023
+From: 02 June 2023 - To: 09 June 2023
 
 JSON         40 mins         ██████████████▓░░░░░░░░░░   59.12 %
 TOML         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
