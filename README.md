@@ -50,12 +50,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2023 - To: 24 July 2023
+From: 18 July 2023 - To: 25 July 2023
 
-TypeScript   32 mins         ███████████░░░░░░░░░░░░░░   43.40 %
-Other        18 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
-JSON         14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-JavaScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+TypeScript   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
