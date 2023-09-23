@@ -50,13 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 14 September 2023 - To: 21 September 2023
 
-TypeScript   7 hrs 13 mins   ██████████████████▓░░░░░░   74.50 %
-CSS          1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-SCSS         46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Ezhil        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   4 hrs 20 mins   ██████████████████░░░░░░░   72.49 %
+CSS          52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+SCSS         46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
 ```
 
 <!--END_SECTION:waka-->
