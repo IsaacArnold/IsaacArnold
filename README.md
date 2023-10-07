@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
 SCSS         40 mins         ███████████▓░░░░░░░░░░░░░   46.17 %
 TypeScript   29 mins         ████████▒░░░░░░░░░░░░░░░░   33.34 %
