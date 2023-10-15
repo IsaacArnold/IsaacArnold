@@ -47,13 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-Docker           56 mins         ███████████████████████░░   91.42 %
-ActionScript 3   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-HTML             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-TypeScript       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   0 secs          ██████████████████████░░░   87.68 %
+Markdown     0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
 ```
 
 <!--END_SECTION:waka-->
