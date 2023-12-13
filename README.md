@@ -47,9 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
-TypeScript   14 mins         █████████████████████████   100.00 %
+TypeScript   41 mins         ███████████████░░░░░░░░░░   60.28 %
+SCSS         27 mins         ██████████░░░░░░░░░░░░░░░   39.72 %
 ```
 
 <!--END_SECTION:waka-->
