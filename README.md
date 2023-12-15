@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2023 - To: 12 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-TypeScript   1 hr 44 mins    ██████████▒░░░░░░░░░░░░░░   40.93 %
-Astro        1 hr 26 mins    ████████▒░░░░░░░░░░░░░░░░   33.93 %
-CSS          30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-SCSS         28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+TypeScript   1 hr 44 mins    ██████████▒░░░░░░░░░░░░░░   40.82 %
+Astro        1 hr 27 mins    ████████▓░░░░░░░░░░░░░░░░   34.11 %
+CSS          30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+SCSS         28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
 TSConfig     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
