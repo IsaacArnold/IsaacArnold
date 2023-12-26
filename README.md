@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 Astro        21 mins         ████████████████████▓░░░░   82.16 %
 TypeScript   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
