@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
 JavaScript   6 mins          █████████████████████▓░░░   86.91 %
 JSON         1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
