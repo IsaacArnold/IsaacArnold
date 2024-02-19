@@ -47,9 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
-No activity tracked
+Astro        45 mins         ███████████████████░░░░░░   76.30 %
+JavaScript   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
