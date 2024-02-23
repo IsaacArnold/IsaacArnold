@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2024 - To: 20 February 2024
+From: 14 February 2024 - To: 21 February 2024
 
 Astro        3 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
 SCSS         2 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
