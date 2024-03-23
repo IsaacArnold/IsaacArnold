@@ -47,12 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2024 - To: 20 March 2024
+From: 14 March 2024 - To: 21 March 2024
 
-CSS          33 mins         ████████████████████▓░░░░   83.24 %
-JavaScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+CSS          33 mins         █████████████████████░░░░   83.97 %
+JavaScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
 ```
 
 <!--END_SECTION:waka-->
