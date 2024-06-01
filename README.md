@@ -47,13 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-HTML         25 mins         ████████████████▒░░░░░░░░   65.92 %
-JavaScript   11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.72 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
