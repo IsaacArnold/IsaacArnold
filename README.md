@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2024 - To: 27 June 2024
+From: 21 June 2024 - To: 28 June 2024
 
-Astro        2 hrs 41 mins   █████████████████▒░░░░░░░   69.43 %
-TypeScript   1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Astro        2 hrs 41 mins   █████████████████▓░░░░░░░   70.51 %
+TypeScript   59 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
