@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 <div align="left">
 <h1>Hi 👋 I'm Isaac</h1>
   <ul align="left" >
-    <li align="left">💻  I’m a Junior Software Engineer</li>
+    <li align="left">💻  I’m a Software Engineer</li>
     <li align="left">🧱  I love solving problems with clean, maintainable and reuseable software</li>
-    <li align="left">🌱  I'm currently building a freelance/side-gig to help businesses branch out online</li>
     <li align="left">👨‍🎓  Graduate of the Frontend Web Development course from Team Treehouse</li>
     <li align="left">🔥  I share my journey and projects on Instagram and Twitter</li>
     <li align="left">⚡  Fun fact: I'm left-handed, however do most things right-handed</li>
-    <li align="left">💼  Currently working as a Junior Software Engineer at The Lottery Corporation</li>
+    <li align="left">💼  Currently working as a Software Engineer at The Lottery Corporation</li>
   </ul>
     
 ###  View my Portfolio Website: [isaacarnold.dev](https://isaacarnold.dev/)
