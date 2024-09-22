@@ -46,10 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Astro   1 hr 39 mins    ████████████████████████░   96.59 %
-JSON    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Astro        1 hr 50 mins    ██████████████████▒░░░░░░   73.60 %
+TypeScript   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+JSON         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
