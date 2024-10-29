@@ -46,13 +46,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2024 - To: 26 October 2024
+From: 21 October 2024 - To: 28 October 2024
 
-TypeScript    4 hrs           █████████████▓░░░░░░░░░░░   55.30 %
-SCSS          1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-CSS           1 hr 19 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-JSON          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+CSS          31 mins         █████████████████████▒░░░   85.97 %
+TypeScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
 ```
 
 <!--END_SECTION:waka-->
