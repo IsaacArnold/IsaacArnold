@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
 TypeScript   20 mins         ████████████████████░░░░░   79.37 %
 CSS          5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.63 %
