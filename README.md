@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-TypeScript   7 hrs 15 mins   ██████████████████████▓░░   91.18 %
-CSS          42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   8 hrs 2 mins    ██████████████████████░░░   87.40 %
+CSS          48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
