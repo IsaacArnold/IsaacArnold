@@ -46,9 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-No activity tracked
+JavaScript   1 hr 33 mins    █████████████▒░░░░░░░░░░░   53.04 %
+Markdown     38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+JSON         23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+TypeScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
