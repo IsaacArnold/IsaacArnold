@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
 JavaScript   1 hr 33 mins    █████████░░░░░░░░░░░░░░░░   35.92 %
 TypeScript   1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   34.97 %
