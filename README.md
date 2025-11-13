@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 10 November 2025
+From: 04 November 2025 - To: 11 November 2025
 
 JSON         1 hr 9 mins     ████████▒░░░░░░░░░░░░░░░░   33.05 %
 Bash         1 hr 4 mins     ███████▓░░░░░░░░░░░░░░░░░   30.82 %
