@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 08 November 2025 - To: 15 November 2025
 
-JSON         1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Bash         1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
-Markdown     51 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-CSS          31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-JavaScript   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Bash         1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Markdown     51 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+JavaScript   48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+JSON         41 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+CSS          31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
 ```
 
 <!--END_SECTION:waka-->
