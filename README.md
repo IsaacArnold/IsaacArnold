@@ -46,13 +46,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2025 - To: 18 November 2025
+From: 12 November 2025 - To: 19 November 2025
 
-Markdown     51 mins         ████████████████▒░░░░░░░░   64.97 %
-JavaScript   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Git Config   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Other        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JavaScript   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
