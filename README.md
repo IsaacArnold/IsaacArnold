@@ -46,11 +46,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-TypeScript   1 hr 11 mins    ███████████████████▒░░░░░   77.09 %
-JSON         21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JSON   21 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
