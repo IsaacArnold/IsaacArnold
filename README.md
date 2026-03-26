@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2026 - To: 23 March 2026
+From: 18 March 2026 - To: 25 March 2026
 
-JSON          29 mins               █████████░░░░░░░░░░░░░░░░   36.63 %
-Markdown      24 mins               ███████▓░░░░░░░░░░░░░░░░░   30.92 %
-Astro         20 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
-Other         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-TSConfig      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Markdown      24 mins               ████████▓░░░░░░░░░░░░░░░░   34.00 %
+JSON          22 mins               ████████░░░░░░░░░░░░░░░░░   31.76 %
+Astro         20 mins               ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+Other         2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+TSConfig      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
