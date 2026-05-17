@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2026 - To: 14 May 2026
+From: 08 May 2026 - To: 15 May 2026
 
-Markdown     1 hr 25 mins          █████████████▓░░░░░░░░░░░   54.26 %
-Swift        1 hr 1 min            █████████▓░░░░░░░░░░░░░░░   38.85 %
-HTML         7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-CSV          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   1 hr 20 mins          █████████░░░░░░░░░░░░░░░░   35.98 %
+Markdown     1 hr 6 mins           ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+XML          52 mins               ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Other        18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+CSV          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
