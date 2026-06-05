@@ -46,10 +46,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Markdown   1 hr 50 mins          ████████████████████▒░░░░   81.47 %
-Other      25 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Markdown     2 hrs 19 mins         ████████████████▒░░░░░░░░   64.81 %
+Other        37 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+TypeScript   27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+Git Config   11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
