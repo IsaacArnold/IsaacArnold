@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2026 - To: 24 June 2026
+From: 18 June 2026 - To: 25 June 2026
 
-JSON       1 hr 18 mins          ██████████████████▒░░░░░░   73.87 %
-Swift      22 mins               █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-Markdown   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Markdown   2 hrs 34 mins         ███████████▒░░░░░░░░░░░░░   45.90 %
+Swift      1 hr 43 mins          ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+JSON       1 hr 18 mins          ██████░░░░░░░░░░░░░░░░░░░   23.43 %
 ```
 
 <!--END_SECTION:waka-->
