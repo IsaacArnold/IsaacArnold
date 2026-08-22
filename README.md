@@ -46,13 +46,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 13 August 2026 - To: 20 August 2026
 
-Markdown     47 mins               ███████████████░░░░░░░░░░   59.93 %
-TypeScript   21 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.52 %
-SQL          3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Other        3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Bash         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
