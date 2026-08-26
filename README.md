@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
 Swift        1 hr 7 mins           ████████████░░░░░░░░░░░░░   47.67 %
 Markdown     57 mins               ██████████▒░░░░░░░░░░░░░░   40.99 %
