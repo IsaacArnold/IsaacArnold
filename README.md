@@ -46,13 +46,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
-Swift        1 hr 7 mins           ██████████████▓░░░░░░░░░░   58.60 %
-Markdown     41 mins               █████████░░░░░░░░░░░░░░░░   36.23 %
-TypeScript   4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-SCSS         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Diff         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
